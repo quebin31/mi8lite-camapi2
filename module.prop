@@ -1,0 +1,6 @@
+id=mi8lite-camapi2
+name=Mi8 Lite Camera API 2 Enabler
+version=v1
+versionCode=1
+author=quebin31
+description=Enable camera EIS, HAL3 and fix front camera. Only Xiaomi Mi8 Lite with Android Pie

@@ -1,0 +1,5 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+persist.vendor.camera.HAL3.enabled=1
+persist.vendor.camera.eis.enable=1
